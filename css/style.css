@@ -388,6 +388,7 @@ footer img:hover {
     grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
   }
   #gallery img {
+    width: 100%;
     grid-column: auto;
     grid-row: auto;
   }
